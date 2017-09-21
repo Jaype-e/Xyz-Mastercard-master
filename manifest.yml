@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: Xyz_Mastercard
+  host: xyzmastercard
+  disk_quota: 1024M
+  services:
+  - availability-monitoring-auto

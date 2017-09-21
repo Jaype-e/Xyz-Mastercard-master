@@ -1,0 +1,167 @@
+#header{
+	height: 140px;
+	margin: 0px;
+}
+#header_icon{
+	padding-right:0px;
+	border:2px solid #C3073F;
+}
+#header_text{
+	text-align:center;
+	font:  50px impact;
+	color:#C3073F;
+}
+#header_button{
+}
+#login_button{
+	margin:15px;
+	font:  20px impact;
+	background-color: #C3073F;
+	color:white;
+	border:2px solid white;
+	padding:10px 20px;
+	border-radius: 8px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+#login_button:hover{
+	background-color: #1A1A1A;
+	color:#C3073F;
+	font:  20px impact;
+	padding:10px 20px;
+}
+#headerbar{
+	color:white;
+	background-color: #4E4E50;
+	border:2px solid #C3073F;
+}
+#headerbar_button{
+	padding:10px;
+	background-color: #C3073F;
+}
+#headerbar_link{
+	font:20px impact;
+	background-color: #C3073F;
+	color:white;
+	padding:10px;
+}
+#headerbar_link:hover{
+	background-color: #4E4E50;
+	color:white;
+	padding:10px;
+}
+#headerbar_button:hover{
+	background-color: #4E4E50;
+	color:white;
+	padding:10px;
+}
+
+#navbar{
+	color:white;
+	background-color: #4E4E50;
+	border:2px solid #C3073F;
+}
+#navbar_obj{
+	text-align: center;
+	padding:10px;
+	border:2px solid #C3073F;
+	font:20px impact;
+	background-color: #C3073F;
+	color:white;
+	padding:10px;
+	padding-top: 60px;
+}
+#navbar_obj:hover{
+	background-color: #4E4E50;
+	color:white;
+	padding:10px;
+
+}
+/*footer*/
+#footer{
+	color:white;
+	background:#4E4E50;
+	height:120px;
+}
+
+#footer_button{
+	font:bold 17px sans-serif ;
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius: 8px;
+	text-align:left;
+}
+
+#cr{
+	padding:0px;
+	font:  12px verdana;
+	display:flex;	
+	justify-content:flex-end;
+	
+}
+#I_foot{
+	padding: 4px 6px;
+	margin: 4px 2px;
+	
+}
+.buttonf {
+	border-radius: 8px;
+    background-color: #C3073F;
+    border:2px solid #C3073F;
+    color: white;
+    padding: 4px 6px;
+	margin: 4px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+    cursor: pointer;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+
+.buttonf:hover {
+    border-radius: 8px;
+    background-color: #4E4E50;
+    border:2px solid #C3073F;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+    cursor: pointer;
+}
+/*footer-end*/
+
+/*login form*/
+#login_header{
+	font:  50px impact;
+	color:#C3073F;
+	text-align: center
+}
+#loginform_text{
+	font:  20px impact;
+}
+#loginform_text:hover{
+	font:  20px impact;
+	color:white;
+}
+#submit_button{
+	font:  20px impact;
+	padding: 10px;
+	border-radius: 8px;
+    background-color: #4E4E50;
+    border:2px solid #C3073F;
+
+}
+#submit_button:hover{
+	color:white;
+	font:  20px impact;
+	padding: 10px;
+	border-radius: 8px;
+    background-color: #4E4E50;
+    border:2px solid #C3073F;
+}
